@@ -1,0 +1,11 @@
+## Interface: 120105
+## Title: GatheredOrderButtons
+## IconTexture: Interface\AddOns\GatheredOrderButtons\Icon
+## Notes: Adds craft buttons (including one that skips the confirmation popup) below the Release Order button on the crafting order screen.
+## Notes-koKR: 주문 제작 화면의 '주문 취소' 버튼 아래에 제작 버튼(확인 팝업 생략 버튼 포함)을 추가합니다.
+## Author: SatkatKim
+## Version: 1.0.0
+
+Locales/enUS.lua
+Locales/koKR.lua
+GatheredOrderButtons.lua

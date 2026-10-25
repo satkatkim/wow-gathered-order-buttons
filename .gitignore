@@ -1,0 +1,12 @@
+# macOS Finder가 만드는 파일
+.DS_Store
+
+# Lua 컴파일 검사(luac -l) 때 생기는 파일
+luac.out
+
+# 배포용 zip (소스에서 다시 만들 수 있음)
+*.zip
+
+# BigWigs packager를 쓸 경우: 빌드 결과와 CurseForge API 토큰
+.release/
+.env
