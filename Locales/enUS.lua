@@ -5,4 +5,7 @@ local _, ns = ...
 ns.L = {
     SKIP_FORMAT = "%s (No Confirm)",  -- %s = 원래 버튼 글자 (Create/Recraft)
     CRAFT = "Create",
+    COMPLETE_HINT = "Click below to complete the order.",
+    RESET_DONE = "GatheredOrderButtons: panel position, minimize state and opacity have been reset.",
+    SLASH_USAGE = "GatheredOrderButtons: /gob reset (or /gatheredorderbuttons reset) - reset panel position, minimize state and opacity",
 }
