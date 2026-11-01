@@ -4,11 +4,11 @@ A World of Warcraft (Retail) addon that gathers all crafting order buttons into 
 
 I made this addon because moving my mouse back and forth between the Start Order, Create and Complete Order buttons while filling NPC patron orders got too tedious. Patron orders are the main focus, but it works the same for every other order type.
 
-![The panel before starting an order](curseforge/desc-before-starting.png)
+![The panel before starting an order](curseforge/desc-001-before-starting.png)
 
-![Craft buttons after starting an order](curseforge/desc-accepting.png)
+![Craft buttons after starting an order](curseforge/desc-002-accepting.png)
 
-![Complete Order after crafting](curseforge/desc-complete.png)
+![Complete Order after crafting](curseforge/desc-003-complete.png)
 
 ## Features
 
